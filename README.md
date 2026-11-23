@@ -5,6 +5,6 @@ A Python program that manages a class list using lists and strings.
 | Student | Function |
 |---------|----------|
 |Madhawi Aloraini|count_names|
-|Raneem Almutairi|search_name|
-|Ghala Albedairi |sort_names |
+|Ghala Albedairi |search_name|
+|Raneem Almutairi|sort_names |
 |Lamis Alyousef  |to_upper   |
