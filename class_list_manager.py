@@ -10,14 +10,16 @@ def search_name(names, name):
         return True
     else:
         return False
-
+# Written by: Raneem Almutiri (task 3)
+def sort_names(names):
+    return sorted(names)
 
 def main():
     print("Welcome to the Class List Manager!")
     print("Class list:", names)
     name = input("Enter a name to search: ")
     print("Search result:", search_name(names, name))
-    
+    print("Sorted names:", sort_names(names))
     # Each student calls her function here, for example:
     # print("Number of names:", count_names(names))
 
