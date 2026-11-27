@@ -26,6 +26,7 @@ def main():
     print("Welcome to the Class List Manager!")
     print("Class list:", names)
     name = input("Enter a name to search: ")
+    print("Number of names:", count_names(names))
     print("Search result:", search_name(names, name))
     print("Sorted names:", sort_names(names))
     print("Uppercase names:", to_upper(names))
