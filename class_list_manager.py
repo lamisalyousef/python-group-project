@@ -4,9 +4,9 @@
 names = ["Sara", "Noura", "Lama", "Reem", "Amal", "Lama"]
 
 # ===== Each student adds her function BELOW this line =====
-# Written by: Madhawi Aloraini (task 1)
+# Written by: Madhawi Aloraini (Task 1)
 def count_names(names):
-    return len(names)
+    return len(names) 
 # Written by: Ghala Albedairi (task 2)
 def search_name(names, name):
     if name in names:
