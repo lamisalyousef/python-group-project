@@ -16,7 +16,7 @@ def search_name(names, name):
 # Written by: Raneem Almutiri (task 3)
 def sort_names(names):
     return sorted(names)
-# Written by: Lamis Alyousef (task 6)
+# Written by: Lamis Alyousef (Task 6)
 def to_upper(names):
     new_names = []
     for name in names:
