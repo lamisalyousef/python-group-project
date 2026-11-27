@@ -13,7 +13,7 @@ def search_name(names, name):
         return True
     else:
         return False
-# Written by: Raneem Almutiri (task 3)
+# Written by: Raneem almutairi (task 3)
 def sort_names(names):
     return sorted(names)
 # Written by: Lamis Alyousef (Task 6)
